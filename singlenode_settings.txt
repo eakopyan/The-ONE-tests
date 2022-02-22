@@ -1,0 +1,6 @@
+## Scenario settings
+Scenario.name = singlenode_scenario
+Scenario.simulateConnections = true
+Scenario.updateInterval = 0.1
+# Simulation duration: 10000 samples of 10 seconds
+Scenario.endTime = 100000
